@@ -1,0 +1,3 @@
+Everything from weeks 5-7, Node.js backend and 'static' EJS front-end only.
+Databases, templating, restful, ...
+as well as learning development processes to be used individually and alone

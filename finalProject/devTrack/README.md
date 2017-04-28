@@ -1,0 +1,1 @@
+the stuff needed to become an entry level Junior

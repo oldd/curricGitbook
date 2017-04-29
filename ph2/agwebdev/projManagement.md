@@ -5,4 +5,4 @@ Resources:
 Exercises:
 
 Lectures:
-
+	decide with juan

@@ -1,1 +1,0 @@
-the three weeks at the end of the program where you do independantly develope your idea, be it a portfolio app or a fledgling multinational.

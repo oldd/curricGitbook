@@ -1,1 +1,0 @@
-material from the parallel group development project. the group development portion, not the coding.

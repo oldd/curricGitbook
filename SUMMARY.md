@@ -5,7 +5,7 @@
 	* [Application Design - basic](ph1/appDesign.md)
 	* [Bootstrap](ph1/bootstrap.md)
 	* [Terminal, Sublime, ChromDev](ph1/devTools.md)
-	* [Documentation](ph1/documentaion.md)
+	* [Documentating](ph1/documentaion.md)
 	* [HTML, CSS](ph1/htmlCss.md)
 	* [jQuery](ph1/jQuery.md)
 	* [Javascript - DOM Manipulation](ph1/javascriptDOManip.md)

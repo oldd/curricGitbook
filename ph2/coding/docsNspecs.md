@@ -6,4 +6,4 @@ Resources:
 Exercises:
 
 Lectures:  
-	[w6d3](https://drive.google.com/open?id=1xmRkdyKLEBqPaUW-9AJVUTT2KQWKnXNu6UkrA6d41_k)  - specs'n'docs in agile dev  
+	[Stories to Sprints.  week 6](https://docs.google.com/presentation/d/1Gw_qzbL1ayJ0cNLzOj832JNsaqFwcMniRT4KR12HKUY)  - specs'n'docs in agile dev  
